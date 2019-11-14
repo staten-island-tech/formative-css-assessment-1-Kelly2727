@@ -1,0 +1,18 @@
+div h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+div{
+    background-image: linear-gradient(
+        to right bottom,
+        rgb(2, 122, 16)
+        rgba(0, 62, 90, 0.829)),
+        
+   url(avocado.jpg);
+    background-size: cover;
+    background-position: center; 
+    height: 100vh;
+}
+    
+
